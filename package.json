@@ -1,0 +1,19 @@
+{
+  "name": "kafkafied",
+  "version": "1.0.0",
+  "description": "",
+  "main": "yes",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.4.0",
+    "kafkajs": "^2.2.4"
+  }
+}
